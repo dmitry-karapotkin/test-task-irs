@@ -6,4 +6,4 @@
 4. Запуститься на локальном хосте npm start.
 
 ## Стек технологий
-React, React Router, использованы хуки и контекст
+React, React Router, Semantic-UI-React
